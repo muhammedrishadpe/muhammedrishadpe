@@ -17,10 +17,3 @@
 ## About Me
 
 A self-taught developer with an insatiable appetite for learning, I delve into the realms of technology with fervor. My expertise spans across a variety of technologies, including Flutter and Frontend(React). Crafting seamless and engaging user interfaces is not just my profession; it's my passion.
-
-Currently, I'm on a quest for knowledge and professional growth. As I navigate through the world of technology, I am actively seeking an Ausbildung in Fachinformatik Anwendungsentwicklung (vocational training in application development). This journey represents my commitment to continuous learning and my desire to delve deeper into the realms of technology and application development.
-
-
-## Current Endeavors 
-
- I'm excited about the prospect of furthering my education in the field of Fachinformatik Anwendungsentwicklung. This eagerness to explore and master new concepts is a driving force behind my career aspirations.
